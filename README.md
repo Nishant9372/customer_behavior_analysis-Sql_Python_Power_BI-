@@ -197,5 +197,5 @@ This project demonstrates:
 
 👤 Your Name  
 📩 Email: nishantkarakoti922@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishant-karakoti-890880241/)  
-💻 [GitHub](https://github.com/Nishant9372)
+🔗 [LinkedIn]:[https://www.linkedin.com/in/nishant-karakoti-890880241/]  
+💻 [GitHub]:[https://github.com/Nishant9372]
